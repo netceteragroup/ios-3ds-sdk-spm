@@ -17,8 +17,8 @@ let package = Package(
         // Targets can depend on other targets in this package, and on products in packages this package depends on.
         .binaryTarget(
             name: "ThreeDS_SDK",
-            url: "https://nexus.extranet.netcetera.biz/nexus/repository/public-repository-maven/com/netcetera/nca-341-2/3ds-sdk/ios/release/2.4.12/ThreeDS_SDK.zip",
-            checksum: "0d3f751c150bf0d675aa324b45fc9058816a4583c89bbbd354a924e921f8ead8"
+            url: "https://nexus.extranet.netcetera.biz/nexus/repository/public-repository-maven/com/netcetera/nca-341-2/3ds-sdk/ios/release/2.5.00/ThreeDS_SDK.zip",
+            checksum: "7f9b152c58f7443bfc4553931d49d6b4fc76b135c9afd4fd1477eb4411f02ddd"
         )
     ]
 )
